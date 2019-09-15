@@ -66,6 +66,7 @@ echo "Installing category Other"
 
 echo "Installing category System"
 
+sh AUR/install-bashate-v*.sh
 sh AUR/install-downgrade-v*.sh
 sh AUR/install-inxi-v*.sh
 #sh AUR/install-neofetch-v*.sh
